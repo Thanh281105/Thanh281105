@@ -16,7 +16,7 @@ I'm currently focused on building and researching **Artificial Intelligence (AI)
 
 ## 🌐 Languages
 - 🇻🇳 Vietnamese: Native  
-- 🇬🇧 English: Professional  
+- 🇬🇧 English: Toiec 850  
 
 ---
 
