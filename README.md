@@ -94,8 +94,8 @@ My long-term goal is to become an **AI Engineer** who can:
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com  
-- LinkedIn: your-linkedin  
+- Email: thanhhoangnvbg@gmail.com  
+- LinkedIn: www.linkedin.com/in/hoàng-xuân-thành-undefined-7a4b903b0  
 
 ---
 
