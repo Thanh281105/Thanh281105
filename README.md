@@ -87,12 +87,6 @@ My long-term goal is to become an **AI Engineer** who can:
 
 ---
 
-## 📊 GitHub Stats
-<!-- Add your GitHub stats here -->
-<!-- Example: https://github-readme-stats.vercel.app -->
-
----
-
 ## 📫 Contact
 - Email: thanhhoangnvbg@gmail.com  
 - LinkedIn: www.linkedin.com/in/hoàng-xuân-thành-undefined-7a4b903b0  
