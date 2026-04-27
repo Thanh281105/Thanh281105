@@ -10,7 +10,7 @@ I'm currently focused on building and researching **Artificial Intelligence (AI)
 
 ## 🎓 Education
 - **Ton Duc Thang University (TDTU)**  
-- GPA: **3.02 / 4.0**
+- GPA: **3.12 / 4.0**
 
 ---
 
